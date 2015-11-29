@@ -8,6 +8,6 @@ If you would like to try this code. You should do the following:
 - install ATS
 - install the haskell tool named stack
 - clone the repo
-- run the command make
+- run the command `make`
 - use stack to build the project
 - you can try stuff in ghci with `ghci --ghc-options -Lats` if you would like
