@@ -1,0 +1,15 @@
+*.c
+*.o
+*.out
+*.so
+#.
+.stack-work
+*~
+\#*\#
+*.elc
+auto-save-list
+.\#*
+.org-id-locations
+*_archive
+*_flymake.*
+
