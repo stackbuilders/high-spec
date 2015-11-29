@@ -3,7 +3,7 @@ The code for the spefic endpoints blog post
 
 If you would like to try this code. You should do the following:
 
-- Use a Linux machine like a sane person (mac doesn't count)
+- Use a GNU Linux/BSD machine like a sane person (mac doesn't count)
 - install (gcc) and all the other build essentials
 - install ATS
 - install the haskell tool named stack
