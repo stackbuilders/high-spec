@@ -1,4 +1,5 @@
 # high-spec
+
 The code for the spefic endpoints blog post
 
 If you would like to try this code. You should do the following:
@@ -17,3 +18,7 @@ If you would like to try this code. You should do the following:
 [2]: http://docs.haskellstack.org/en/stable/README.html
 [3]: https://www.gnu.org/software/make/manual/html_node/Running.html
 [4]: http://docs.haskellstack.org/en/stable/README.html#quick-start-guide
+
+## License
+
+Licensed under the BSD-3 License.
